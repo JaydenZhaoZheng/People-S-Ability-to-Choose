@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_means_age",
+  "source_file": "creditcard (1).sas",
+  "source_blob_sha": "8a0c36e6d929a16f85ab6f0866f50c552ff22f32",
+  "source_commit": "1c4185ecc10fd51479e791fe3d936f8239995fce",
+  "notes": "Q2 PROC MEANS (full percentile list) + PROC UNIVARIATE on age, verbatim from the author's script; mock data retains the documented age=200 outlier."
+}

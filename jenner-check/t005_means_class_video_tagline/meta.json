@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_means_class_video_tagline",
+  "source_file": "creditcard (1).sas",
+  "source_blob_sha": "8a0c36e6d929a16f85ab6f0866f50c552ff22f32",
+  "source_commit": "1c4185ecc10fd51479e791fe3d936f8239995fce",
+  "notes": "Q12 PROC MEANS CLASS video tagline with OUTPUT OUT= then PROC PRINT, verbatim from the author's script; choice_share = mean of chosedom by video x tagline."
+}
