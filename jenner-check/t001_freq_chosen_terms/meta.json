@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_freq_chosen_terms",
+  "source_file": "creditcard (1).sas",
+  "source_blob_sha": "8a0c36e6d929a16f85ab6f0866f50c552ff22f32",
+  "source_commit": "1c4185ecc10fd51479e791fe3d936f8239995fce",
+  "notes": "Q7/Q8 PROC FREQ (chosen_terms; chosedom havecard) from the author's script, run against a 40-row mock creditcard matching the real column coding (external libname 'class' mapped to WORK)."
+}

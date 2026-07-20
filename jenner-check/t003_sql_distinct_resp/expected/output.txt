@@ -1,0 +1,48 @@
+
+  Obs     resp_id        video               tagline                    chosen_terms               highest_ed             hh_inc  chosedom  havecard  age  male  confidence  easy_choice
+-----  ----------  -----------  --------------------  ------------------------------  -----------------------  -----------------  --------  --------  ---  ----  ----------  -----------
+    1  R_F1A4D0A6  Baseline     Superfluous taglines  APR can change card             High School/GED          $50,000 - $74,999         0         1   57     0           4            6
+    2  R_138C13A9  Baseline     No taglines           High activation fee card        High School/GED          $50,000 - $74,999         0         1   56     1           6            4
+    3  R_AE8F4027  Implemental  Superfluous taglines  Dominant card                   High School/GED          Over $150,000             1         1   43     1           1            7
+    4  R_0374DC29  Implemental  Superfluous taglines  Dominant card                   Some College             $25,000 - $49,999         1         1   33     0           4            4
+    5  R_97A89063  Baseline     No taglines           High APR & variable limit card  Some College             $25,000 - $49,999         0         1   61     0           7            5
+    6  R_FBD88A08  Baseline     Superfluous taglines  High activation fee card        High School/GED          $25,000 - $49,999         0         0   44     1           4            2
+    7  R_0498D4E7  Implemental  Superfluous taglines  Dominant card                   High School/GED          Over $150,000             1         0   52     0           4            4
+    8  R_819EBD36  Implemental  No taglines           Dominant card                   High School/GED          $25,000 - $49,999         1         1  200     0           4            6
+    9  R_1D8D34E6  Implemental  No taglines           Dominant card                   Master's Degree (MA/MS)  $25,000 - $49,999         1         1   46     1           4            1
+   10  R_5F2F98BA  Baseline     No taglines           High APR & variable limit card  Master's Degree (MA/MS)  Under $25,000             0         1   19     0           6            3
+
+... 30 more observations (showing 10 of 40)
+
+
+PROC CONTENTS
+-------------------------------------------------------------------------------
+
+Data Set Name: class.creditcard
+Observations:  40
+Variables:     12
+
+Variables (in alphabetical order):
+
+  #  Variable      Type    Len  Format  Label
+---  ------------  ----  -----  ------  -----
+  1  age            Num      8          
+  2  chosedom       Num      8          
+  3  chosen_terms  Char     34          
+  4  confidence     Num      8          
+  5  easy_choice    Num      8          
+  6  havecard       Num      8          
+  7  hh_inc        Char     20          
+  8  highest_ed    Char     32          
+  9  male           Num      8          
+ 10  resp_id       Char     20          
+ 11  tagline       Char     22          
+ 12  video         Char     12          
+
+-------------------------------------------------------------------------------
+
+
+  Obs  identifiervariable
+-----  ------------------
+    1                  40
+

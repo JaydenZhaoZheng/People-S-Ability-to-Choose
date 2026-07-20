@@ -1,0 +1,19 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: Library CLASS uses 1 concatenated paths.
+NOTE: DATA class.creditcard
+
+NOTE: Processing inline DATALINES (40 lines)
+
+NOTE: Read 40 rows from DATALINES.
+NOTE: Wrote class.creditcard (40 rows, 12 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: Output dataset dominant_card_summary has 9 observations and 5 variables.
+NOTE: PROC MEANS statement used.
+NOTE: PROC PRINT data=dominant_card_summary
+
+NOTE: PROC PRINT completed: 9 observations printed, 3 variables

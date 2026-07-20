@@ -1,0 +1,13 @@
+
+  Obs        video               tagline  choice_share
+-----  -----------  --------------------  ------------
+    1                                              0.4
+    2               No taglines           0.4705882353
+    3               Superfluous taglines   0.347826087
+    4  Baseline                           0.2631578947
+    5  Implemental                        0.5238095238
+    6  Baseline     No taglines                  0.375
+    7  Baseline     Superfluous taglines  0.1818181818
+    8  Implemental  No taglines           0.5555555556
+    9  Implemental  Superfluous taglines           0.5
+

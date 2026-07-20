@@ -1,0 +1,66 @@
+                                                  The MEANS Procedure
+
+ Variable           Mean        Std Dev         Maximum        Minimum         Median   Lower Quartile   Upper Quartile       5th Pctl    10th Pctl    90th Pctl    95th Pctl
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ age          47.8205128     28.7702988     200.0000000     19.0000000     45.0000000       33.0000000       59.0000000     19.0000000   22.0000000   65.0000000   66.0000000
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                The UNIVARIATE Procedure
+                                                     Variable:  age
+
+                                                        Moments
+
+N                                 39    Sum Weights                       39
+Mean                       47.820513    Sum Observations         1865.000000
+Std Deviation              28.770299    Variance                  827.730094
+Skewness                    3.966527    Kurtosis                   21.057687
+Uncorrected SS         120639.000000    Corrected SS            31453.743590
+Coeff Variation            60.163091    Std Error Mean              4.606935
+
+          Basic Statistical Measures          
+
+Location             Variability              
+--------  ---------  -------------  ----------
+Mean      47.820513  Std Deviation   28.770299
+Median    45.000000  Variance       827.730094
+Mode      33.000000  Range          181.000000
+
+     NOTE: The mode displayed is the smallest of 2 modes with a count of 3.
+
+Quantiles (Definition 5)
+
+Quantile      Estimate
+----------  ----------
+0% Min       19.000000
+1%           19.000000
+5%           19.000000
+10%          22.000000
+25% Q1       33.000000
+50% Median   45.000000
+75% Q3       59.000000
+90%          65.000000
+95%          66.000000
+99%         200.000000
+100% Max    200.000000
+
+          Extreme Observations           
+
+Lowest               Highest             
+--------  ---------  --------  ----------
+Value     19.000000  Value      61.000000
+Value     19.000000  Value      65.000000
+Value     20.000000  Value      65.000000
+Value     22.000000  Value      66.000000
+Value     23.000000  Value     200.000000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         10.380114877         0
+Sign                     19.5  0.000000001
+Signed Rank               780  0.000000053
+

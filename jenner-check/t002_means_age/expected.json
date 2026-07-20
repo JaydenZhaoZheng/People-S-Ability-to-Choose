@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-20T21:47:45+00:00",
+  "_captured_run_id": "r_d1ec337c0e8d4ef089c2147408f36a68",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 40 rows from DATALINES.",
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: PROC UNIVARIATE"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

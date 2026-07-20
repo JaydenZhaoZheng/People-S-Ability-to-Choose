@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_sql_distinct_resp",
+  "source_file": "creditcard (1).sas",
+  "source_blob_sha": "8a0c36e6d929a16f85ab6f0866f50c552ff22f32",
+  "source_commit": "1c4185ecc10fd51479e791fe3d936f8239995fce",
+  "notes": "Q1 PROC PRINT + PROC CONTENTS + PROC SQL count(distinct resp_id) from the author's script, against the mock creditcard."
+}
